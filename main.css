@@ -1,0 +1,84 @@
+.blok {
+    width: 900px;
+    height: 300px;
+    background-color: rgb(17, 153, 153);
+    margin-top: 50px;
+    margin-left: 50px;
+    margin: 50px 50px;
+    padding: 50px;
+}
+
+.mainfont {
+    color: rgb(190, 59, 59);
+    font-family: fantasy;
+}
+
+.text {
+    font-family: cursive;
+    color: black;
+    font-size: 17px;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+
+span {
+    color: rgb(224, 211, 211);
+    font-weight: 600;
+}
+
+a {
+    width: 10%;
+    color: aliceblue;
+    text-decoration: none;
+    font-family: fantasy;
+    color: rgb(72, 59, 190);
+    font-size: 17px;
+    font-weight: 300;
+    margin: 20px;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 8px;
+    display: flex;
+
+}
+
+a:hover {
+    background-color: yellow;
+
+}
+
+.baner {
+    width: 150px;
+    height: 100px;
+    border-radius: 10px;
+}
+
+.profile {
+    display: flex;
+    flex-direction: row;
+}
+
+.name {
+    font-family: cursive;
+    color: rgb(72, 59, 190);
+    font-size: 17px;
+    font-weight: 900;
+}
+
+.name2 {
+    font-family: cursive;
+    color: yellow;
+    font-size: 17px;
+    font-weight: 900;
+}
+
+li {
+    list-style: none;
+}
+
+.name5 {
+    font-family: cursive;
+    color: yellow;
+    font-size: 17px;
+    font-weight: 900;
+}
